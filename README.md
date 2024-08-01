@@ -39,6 +39,7 @@ streamlit run app.py
 ## Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen pull request gönderin veya yeni bir issue oluşturun.
 
+### Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
 
