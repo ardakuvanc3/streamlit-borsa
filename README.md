@@ -26,14 +26,14 @@ pip install streamlit pandas matplotlib yfinance
 ## Kullanım
 
 ```bash
-- git clone https://github.com/kullanici_adi/borsa-takip-sistemi.git
+git clone https://github.com/kullanici_adi/borsa-takip-sistemi.git
 ```
 
 ```bash
-- cd borsa-takip-sistemi
+cd borsa-takip-sistemi
 ```
 ```bash
-- streamlit run app.py
+streamlit run app.py
 ```
 
 ## Katkıda Bulunma
