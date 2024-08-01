@@ -21,14 +21,20 @@ Bu paketleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 
 ```bash
 pip install streamlit pandas matplotlib yfinance
+```
 
 ## Kullanım
 
-
+```bash
 - git clone https://github.com/kullanici_adi/borsa-takip-sistemi.git
+```
+
 ```bash
 - cd borsa-takip-sistemi
+```
+```bash
 - streamlit run app.py
+```
 
 ## Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen pull request gönderin veya yeni bir issue oluşturun.
